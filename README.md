@@ -8,3 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
  my_url = http://www.omdbapi.com/?i=tt3896198&apikey=6f3895f8&s=titanic
  myapikey = 6f3895f8
+ in this project I learn many things of react
+learn about axios in which how to handle the apis
+learn about useContext to how to use data globally and avoid prop drilling
+learn about use effect
+learning phase is continue when i am get better I would like to add many more features in this 
